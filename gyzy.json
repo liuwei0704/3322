@@ -5,7 +5,7 @@
             "name": "🐀AI去广告",
             "type": 3,
             "api": "./lib/drpy2.min.js",
-            "ext": "./lib/douban.js",.
+            "ext": "./lib/douban.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
