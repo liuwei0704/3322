@@ -2,7 +2,7 @@
 "sites":[
 {
             "key": "js豆瓣1",
-            "name": "🐀AI去广告",
+            "name": "🌀AI去广告",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/douban.js",
@@ -430,7 +430,7 @@
       }
     },    {
       "key": "奇优🏮秒播",
-      "name": "🐀奇优┃秒播",
+      "name": "🌀奇优┃秒播",
      "jar": "./lib/XBPQ.jar",
       "type": 3,
       "api": "csp_XBPQ",
